@@ -5,7 +5,7 @@
 
 <br/>
 
-**MERN Stack Developer** · Building clean, scalable & secure web applications with TypeScript, PostgreSQL & Prisma.
+**MERN Stack Developer** · Building clean, scalable & secure web applications with TypeScript, Next.js, PostgreSQL & Prisma.
 
 <br/>
 
@@ -20,8 +20,8 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **MERN Stack projects**
-- 🌱 I'm currently learning ** · Next.js · Docker**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, PostgreSQL, Typescript**
+- 🌱 I'm currently learning ** · Docker**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Express, PostgreSQL, Typescript**
 - 📫 Reach me at **mohammadpamel12345@gmail.com**
 - 🌍 Based in **Bangladesh 🇧🇩**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
@@ -32,6 +32,7 @@
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,7 +80,7 @@
 
 | Area | Details |
 |------|---------|
-| 🎨 **Frontend** | React, Tailwind CSS, responsive & modern UI development |
+| 🎨 **Frontend** | React, Next.js, Tailwind CSS, responsive & modern UI development |
 | ⚙️ **Backend** | Node.js + Express.js, REST API development, scalable architecture |
 | 🗄️ **Database** | MongoDB, PostgreSQL with Prisma ORM |
 | 🔒 **Authentication** | JWT, Firebase Auth, role-based access control, protected routes |
