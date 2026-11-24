@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **MERN Stack projects**
+- 🔭 I'm currently working on **MERN & PERN Stack projects**
 - 🌱 I'm currently learning ** · Docker**
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Express, PostgreSQL, Typescript**
 - 📫 Reach me at **mohammadpamel12345@gmail.com**
